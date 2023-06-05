@@ -1,83 +1,15 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.2*%
-%TF.CreationDate,2023-05-25T16:14:32+02:00*%
+%TF.CreationDate,2023-06-05T19:47:35+02:00*%
 %TF.ProjectId,kim-1-keypad,6b696d2d-312d-46b6-9579-7061642e6b69,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L2,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.2) date 2023-05-25 16:14:32*
+G04 Created by KiCad (PCBNEW 7.0.2) date 2023-06-05 19:47:35*
 %MOMM*%
 %LPD*%
 G01*
 G04 APERTURE LIST*
-G04 Aperture macros list*
-%AMRoundRect*
-0 Rectangle with rounded corners*
-0 $1 Rounding radius*
-0 $2 $3 $4 $5 $6 $7 $8 $9 X,Y pos of 4 corners*
-0 Add a 4 corners polygon primitive as box body*
-4,1,4,$2,$3,$4,$5,$6,$7,$8,$9,$2,$3,0*
-0 Add four circle primitives for the rounded corners*
-1,1,$1+$1,$2,$3*
-1,1,$1+$1,$4,$5*
-1,1,$1+$1,$6,$7*
-1,1,$1+$1,$8,$9*
-0 Add four rect primitives between the rounded corners*
-20,1,$1+$1,$2,$3,$4,$5,0*
-20,1,$1+$1,$4,$5,$6,$7,0*
-20,1,$1+$1,$6,$7,$8,$9,0*
-20,1,$1+$1,$8,$9,$2,$3,0*%
-G04 Aperture macros list end*
-%TA.AperFunction,ComponentPad*%
-%ADD10RoundRect,0.765000X0.735000X0.085000X-0.735000X0.085000X-0.735000X-0.085000X0.735000X-0.085000X0*%
-%TD*%
 G04 APERTURE END LIST*
-D10*
-%TO.P,J1,1,Pin_1*%
-%TO.N,ROW0*%
-X178200000Y-80080000D03*
-%TO.P,J1,2,Pin_2*%
-%TO.N,COLF*%
-X178200000Y-82620000D03*
-%TO.P,J1,3,Pin_3*%
-%TO.N,COLB*%
-X178200000Y-85160000D03*
-%TO.P,J1,4,Pin_4*%
-%TO.N,COLE*%
-X178200000Y-87700000D03*
-%TO.P,J1,5,Pin_5*%
-%TO.N,COLA*%
-X178200000Y-90240000D03*
-%TO.P,J1,6,Pin_6*%
-%TO.N,ST*%
-X178200000Y-92780000D03*
-%TO.P,J1,7,Pin_7*%
-%TO.N,VCC*%
-X178200000Y-95320000D03*
-%TO.P,J1,8,Pin_8*%
-%TO.N,RS*%
-X178200000Y-97860000D03*
-%TO.P,J1,9,Pin_9*%
-%TO.N,COLD*%
-X178200000Y-100400000D03*
-%TO.P,J1,10,Pin_10*%
-%TO.N,SST*%
-X178200000Y-102940000D03*
-%TO.P,J1,11,Pin_11*%
-%TO.N,NMI*%
-X178200000Y-105480000D03*
-%TO.P,J1,12,Pin_12*%
-%TO.N,COLG*%
-X178200000Y-108020000D03*
-%TO.P,J1,13,Pin_13*%
-%TO.N,ROW2*%
-X178200000Y-110560000D03*
-%TO.P,J1,14,Pin_14*%
-%TO.N,COLC*%
-X178200000Y-113100000D03*
-%TO.P,J1,15,Pin_15*%
-%TO.N,ROW1*%
-X178200000Y-115640000D03*
-%TD*%
 M02*
