@@ -22,6 +22,9 @@ EXCEPTION: The electrical schematic and all the associated symbols are licensed 
 
 See the LICENSE.md file for details.
 
+## Changelog
+#### 05/06/2023
+* Fix silkscreen and remove pads from bottom side
 ## Acknowledgements
 
 * Hans Otten and his [Retro Computing blog](http://retro.hansotten.nl/). Tons of information and high resolution pictures of various KIM-1.
