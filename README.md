@@ -6,7 +6,7 @@ Welcome to the KIM-1 Keypad repository.
 
 I designed this board for [my KIM-1 PCB replica](https://github.com/eduardocasino/kim-1), but it will also work with real KIM-1s from Revision D and onwards.
 
-WARNING: I have not yet sent the board to fabrication, so it is untested!
+~~WARNING: I have not yet sent the board to fabrication, so it is untested!~~
 
 ![components](https://github.com/eduardocasino/kim-1-keypad/raw/main/images/kim-1-keypad-comp.png)
 
